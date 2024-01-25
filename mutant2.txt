@@ -1,0 +1,10 @@
+5 9
+baa
+abcd
+cab
+eba
+eca
+cba
+daa
+abb
+bcd
